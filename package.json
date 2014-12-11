@@ -1,0 +1,26 @@
+{
+  "name": "wowdb-spells",
+  "version": "1.0.0",
+  "description": "wowdb-spells",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -a localhost -p 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhongsp/wowdb-spells.git"
+  },
+  "keywords": [
+    "wow",
+    "api"
+  ],
+  "author": "patrick.zhongsp@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhongsp/wowdb-spells/issues"
+  },
+  "homepage": "https://github.com/zhongsp/wowdb-spells",
+  "dependencies": {
+    "http-server": "^0.7.4"
+  }
+}
