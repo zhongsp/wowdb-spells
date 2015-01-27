@@ -1,7 +1,9 @@
 wowdb-spells
 ============
 
-Use WoW Community Web API to search spells
+Use WoW Community Web API to query spells
+
+Setup steps:
 
 * Install nodejs & npm
 * Run `npm install` from project root folder
